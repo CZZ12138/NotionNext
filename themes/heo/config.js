@@ -42,7 +42,7 @@ const CONFIG = {
   GROUP_ICONS: [
     {
       title_1: 'AfterEffect',
-      img_1: '/images/heo/20239df3f66615b532ce571eac6d14ff21cf072602.webp',
+      img_1: '/images/heo/czz1998_A_beautiful_crisp_4K_illustration_of_the_Hong_Kong_skyl_6e6cc90a-ea55-469f-af17-bde6c1717449.webp',
       color_1: '#989bf8',
       title_2: 'Sketch',
       img_2: '/images/heo/2023e0ded7b724a39f12d59c3dc8fbdc7cbe074202.webp',
