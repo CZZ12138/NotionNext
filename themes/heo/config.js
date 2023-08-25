@@ -42,7 +42,7 @@ const CONFIG = {
     {
       title_1: 'AfterEffect',
       img_1: '/images/heo/北大.webp',
-      color_1: '#989bf8',
+      color_1: '#ffffff',
       title_2: 'Sketch',
       img_2: '/images/heo/香港大学.webp',
       color_2: '#ffffff'
@@ -93,7 +93,7 @@ const CONFIG = {
       color_1: '#df5b40',
       title_2: 'Rhino',
       img_2: '/images/heo/北大.webp',
-      color_2: '#1f1f1f'
+      color_2: '#ffffff'
     }
   ],
 
