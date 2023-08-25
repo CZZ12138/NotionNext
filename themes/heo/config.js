@@ -41,7 +41,7 @@ const CONFIG = {
   GROUP_ICONS: [
     {
       title_1: 'AfterEffect',
-      img_1: '/images/heo/北大.webp',
+      img_1: '/images/heo/芝加哥.webp',
       color_1: '#ffffff',
       title_2: 'Sketch',
       img_2: '/images/heo/香港大学.webp',
@@ -92,7 +92,7 @@ const CONFIG = {
       img_1: '/images/heo/麻省理工.webp',
       color_1: '#df5b40',
       title_2: 'Rhino',
-      img_2: '/images/heo/北大.webp',
+      img_2: '/images/heo/牛津.webp',
       color_2: '#ffffff'
     }
   ],
