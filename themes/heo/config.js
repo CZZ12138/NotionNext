@@ -101,7 +101,7 @@ const CONFIG = {
   SOCIAL_CARD_TITLE_1: '交流频道',
   SOCIAL_CARD_TITLE_2: '加入我们的社群讨论分享',
   SOCIAL_CARD_TITLE_3: '点击加入社群',
-  SOCIAL_CARD_URL: 'https://docs.tangly1024.com/article/how-to-question',
+  SOCIAL_CARD_URL: 'https://bestzixue.com/?app_referrer_id=WBH',
 
   // *****  以下配置无效，只是预留开发 ****
   // 菜单配置
