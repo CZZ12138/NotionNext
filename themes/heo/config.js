@@ -10,8 +10,8 @@ const CONFIG = {
   ],
 
   // 英雄区(首页顶部大卡)
-  HERO_TITLE_1: '分享成长，留学，教育',
-  HERO_TITLE_2: '与思维认知',
+  HERO_TITLE_1: '分享成长，考研，留学',
+  HERO_TITLE_2: '与教育规划',
   HERO_TITLE_3: 'LUCENCZZ.TOP',
   HERO_TITLE_4: 'LUCEN小店',
   HERO_TITLE_5: 'LUCEN,分享有价值的信息',
