@@ -344,10 +344,10 @@ function TodayCard({ cRef }) {
       <div
         id="card-body"
         onClick={handleCardClick}
-        className={`opacity-100 ${
+        className={`${
           isCoverUp
-            ? 'cursor-pointer'
-            : 'transform scale-110 pointer-events-none'
+            ? 'opacity-100 cursor-pointer'
+            : 'opacity-0 transform scale-110 pointer-events-none'
         } shadow transition-all duration-200 today-card h-full  rounded-xl relative overflow-hidden flex items-end`}
       >
         <div
