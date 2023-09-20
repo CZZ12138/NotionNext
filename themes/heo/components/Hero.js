@@ -356,7 +356,7 @@ function TodayCard({ cRef }) {
         >
           <div className="flex flex-col">
             <div className="text-xs font-light">{CONFIG.HERO_TITLE_4}</div>
-            <div className="text-3xl font-bold">{CONFIG.HERO_TITLE_5}</div>
+            <div className="text-lg font-bold">{CONFIG.HERO_TITLE_5}</div>
           </div>
           <div
             onClick={handleClickMore}
