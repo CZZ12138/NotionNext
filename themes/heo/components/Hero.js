@@ -379,7 +379,7 @@ function TodayCard({ cRef }) {
           } cursor-pointer today-card-cover absolute w-full h-full top-0`}
           style={{
             background:
-              "url('https://cdn.discordapp.com/attachments/909799586195976239/1153894057148436560/pexels-alexander-kovalev-2847648.jpg') no-repeat center /cover"
+              "url('https://cdn.discordapp.com/attachments/909799586195976239/1153894969824784474/pexels-lumn-406014.jpg') no-repeat center /cover"
           }}
         ></div>
       </div>
