@@ -13,9 +13,9 @@ const CONFIG = {
   HERO_TITLE_1: '分享成长，考研，留学',
   HERO_TITLE_2: '与教育规划',
   HERO_TITLE_3: 'LUCENCZZ.TOP',
-  HERO_TITLE_4: 'LUCEN小店',
-  HERO_TITLE_5: 'LUCEN,分享有价值的信息',
-  HERO_TITLE_LINK: 'https://lucenczz.top',
+  HERO_TITLE_4: '',
+  HERO_TITLE_5: '',
+  HERO_TITLE_LINK: 'https://bestzixue.com/?app_referrer_id=WBH~atczhihu-oct8zt-0915-editor_chengzz',
 
   // 英雄区显示三个置顶分类
   HERO_CATEGORY_1: { title: '资源分享', url: '/tag/资源分享' },
