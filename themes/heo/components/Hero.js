@@ -362,7 +362,7 @@ function TodayCard({ cRef }) {
             onClick={handleClickMore}
             className={`'${
               isCoverUp ? '' : 'hidden pointer-events-none '
-            } flex items-center px-3 h-10 justify-center hover: transition-colors duration-100 rounded-3xl`}
+            } flex items-center px-3 h-10 bg-[#425aef] justify-center hover: bg-[#4259efcb] transition-colors duration-100 rounded-3xl`}
           >
             <PlusSmall
               className={'w-6 h-6 mr-2 bg-white rounded-full stroke-indigo-400'}
