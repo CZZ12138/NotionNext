@@ -323,7 +323,7 @@ function TodayCard({ cRef }) {
    */
   function handleClickMore(e) {
     e.stopPropagation()
-    setIsCoverUp(false)
+    setIsCoverUp(true)
   }
 
   /**
@@ -346,8 +346,8 @@ function TodayCard({ cRef }) {
         onClick={handleCardClick}
         className={`${
           isCoverUp
-            ? 'opacity-100 cursor-pointer'
-            : 'opacity-0 transform scale-110 pointer-events-none'
+            ? 'opacity-0 transform scale-110 pointer-events-none'
+            : 'opacity-100 cursor-pointer'
         } shadow transition-all duration-200 today-card h-full  rounded-xl relative overflow-hidden flex items-end`}
       >
         <div
