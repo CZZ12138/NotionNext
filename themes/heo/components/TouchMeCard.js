@@ -23,7 +23,6 @@ export default function TouchMeCard() {
                         <div className='absolute left-0 top-0 w-full h-full' style={{ background: 'url(https://bu.dusays.com/2023/05/16/64633c4cd36a9.png) center center no-repeat' }}></div>
                     </div>}
                 backContent={
-                  <div className='absolute left-0 top-0 w-full h-full' style={{ background: 'url(https://cdn.discordapp.com/attachments/909799586195976239/1154030817417363487/image.png) center center no-repeat' }}></div>
                   <Link href={CONFIG.SOCIAL_CARD_URL}>
                     <div className='font-[1000] text-xl h-full'>
                         {CONFIG.SOCIAL_CARD_TITLE_3}
