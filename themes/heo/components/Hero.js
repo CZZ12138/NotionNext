@@ -347,8 +347,8 @@ function TodayCard({ cRef }) {
         className={`${
           isCoverUp
             ? 'opacity-100 cursor-pointer'
-            : 'opacity-100 transform scale-110 pointer-events-none'
-        } shadow transition-all duration-200 today-card h-full  rounded-xl relative overflow-hidden flex items-end`}
+            : 'opacity-0 transform scale-110 pointer-events-none'
+        } shadow duration-200 today-card h-full  rounded-xl relative overflow-hidden flex items-end`}
       >
         <div
           id="today-card-info"
