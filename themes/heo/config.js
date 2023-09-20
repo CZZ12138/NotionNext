@@ -13,8 +13,8 @@ const CONFIG = {
   HERO_TITLE_1: '分享成长，考研，留学',
   HERO_TITLE_2: '与教育规划',
   HERO_TITLE_3: 'LUCENCZZ.TOP',
-  HERO_TITLE_4: '',
-  HERO_TITLE_5: '',
+  HERO_TITLE_4: '清华大学｜斯坦福大学｜伊利诺伊州大学 团队打造',
+  HERO_TITLE_5: '利用机器学习与大数据精准定位你的薄弱点',
   HERO_TITLE_LINK: 'https://bestzixue.com/?app_referrer_id=WBH~atczhihu-oct8zt-0915-editor_chengzz',
 
   // 英雄区显示三个置顶分类
