@@ -6,7 +6,7 @@ const CONFIG = {
   // 首页顶部通知条滚动内容，如不需要可以留空 []
   NOTICE_BAR: [
     { title: '欢迎来到LUCEN', url: 'https://lucenczz.top' },
-    { title: '知能行考研数学帮助40万+考生找到秒杀考研数学的乐趣', url: 'https://bestzixue.com/?app_referrer_id=WBH' }
+    { title: '知能行考研数学帮助40万+考生找到秒杀考研数学的乐趣', url: 'https://bestzixue.com/?app_referrer_id=WBH~atczhihu-lucen-editor_chengzz' }
   ],
 
   // 英雄区(首页顶部大卡)
@@ -15,7 +15,7 @@ const CONFIG = {
   HERO_TITLE_3: 'LUCENCZZ.TOP',
   HERO_TITLE_4: '清华大学｜斯坦福大学｜伊利诺伊州大学 团队打造',
   HERO_TITLE_5: '利用机器学习与大数据精准定位你的薄弱点',
-  HERO_TITLE_LINK: 'https://bestzixue.com/?app_referrer_id=WBH~atczhihu-oct8zt-0915-editor_chengzz',
+  HERO_TITLE_LINK: 'https://bestzixue.com/?app_referrer_id=WBH~atczhihu-lucen-editor_chengzz',
 
   // 英雄区显示三个置顶分类
   HERO_CATEGORY_1: { title: '资源分享', url: '/tag/资源分享' },
@@ -101,7 +101,7 @@ const CONFIG = {
   SOCIAL_CARD_TITLE_1: '交流频道',
   SOCIAL_CARD_TITLE_2: '加入我们的社群讨论分享',
   SOCIAL_CARD_TITLE_3: '点击加入社群',
-  SOCIAL_CARD_URL: 'https://bestzixue.com/?app_referrer_id=WBH',
+  SOCIAL_CARD_URL: 'https://bestzixue.com/?app_referrer_id=WBH~atczhihu-lucen-editor_chengzz',
 
   // *****  以下配置无效，只是预留开发 ****
   // 菜单配置
